@@ -5,6 +5,10 @@
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/q_sharp.png?raw=true" width=400 />
 </p>
 
+<p align="center">
+ <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/xPort-Layout.png?raw=true" width=400 />
+</p>
+
 ### Supported Target Systems (Each Target System has to be trained on an LLM):  
 Windows  
 macOS  
