@@ -1,4 +1,4 @@
-# Supported Systems and Languages for xPort - Porting Software  
+<h1 align="center">xPort - AI Enhanced Porting Software</h1>
 
 <p align="center">
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/q_pp.png?raw=true" width=400 />
@@ -70,14 +70,16 @@ Error: No equivalent struct, class, or function in target API. Please provide yo
 #### Best Practices:  
 It would be helpful for the porting team when using the @exclude tag to allow the LLM to offer a brief description.  
 Such as allowing the LLM provided in xPort to read the @brief, @param, and @return descriptors.  
-However, the LLM WILL NOT read the data or algorithms inside the class, function, or struct that is being excluded.  
+However, the LLM **<ins>WILL NOT</ins>** read the data or algorithms inside the class, function, or struct that is being excluded.  
 
 <h2 align="center">
-CLI COMMANDS 
-</h2>  
+CLI Tools 
+</h2>
+
+### General Command Structure  
 ```xport [options...][input directory][output directory]```
 
-#### If no output or target directory is specified, then xPort should assume the working directory.  
+#### If no output or target directory is specified, then xPort assumes the working directory.  
 
 Example Command:  
 ```xport -sys=win -lang=c|qpp -gfx=dx|v -phys=opx|npx ../[curr_dir] ../bin/```
