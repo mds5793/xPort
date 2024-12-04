@@ -88,7 +88,7 @@ Example Command:
 #### If desired you can run xport for the sole purpose of generating tags in your code as follows:  
 ```xport -g /bin```  
 
-Where bin is the output directory.
+Where bin is the output directory. This is useful if you want to manually add @exception tags to your code.
 
 ##### Note: In order to see a list of the options on the command line, use the following syntax:  
 ```
