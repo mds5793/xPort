@@ -1,6 +1,6 @@
 # Supported Systems and Languages for xPort - Porting Software  
 
-<p float="left" align="center">
+<p align="center">
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/q_pp.png?raw=true" width=512 />
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/q_sharp.png?raw=true" width=512 />
 </p>
