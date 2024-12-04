@@ -65,14 +65,14 @@ Such as allowing the LLM provided in xPort to read the @brief, @param, and @retu
 However, the LLM WILL NOT read the data or algorithms inside the class, function, or struct that is being excluded.  
 
 ## CLI COMMANDS 
-xport [options...][input directory][output directory]  
+```xport [options...][input directory][output directory]```
 
 #### If no output or target directory is specified, then xPort should assume the working directory.  
 
 Example Command:  
-xport -sys=win -lang=c|qpp -gfx=dx|v -phys=opx|npx ../[curr_dir] ../bin/  
+```xport -sys=win -lang=c|qpp -gfx=dx|v -phys=opx|npx ../[curr_dir] ../bin/```
 
-OPTIONS:  
+#### OPTIONS  
 -sys = [TAR_SYS]  
 
 [win = WINDOWS]  
