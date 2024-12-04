@@ -8,7 +8,7 @@
 ## GUI Layout
 
 <p align="center">
- <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/xPort-Layout.png?raw=true" width=892 />
+ <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/xPort-Layout.png?raw=true" width=768 />
 </p>
 
 ### Supported Target Systems (Each Target System has to be trained on an LLM):  
