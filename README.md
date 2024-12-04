@@ -104,7 +104,7 @@ Bundled with this software package is an open-source compiler for q++ available 
 ```
 q++ -o main main.qpp lib.hqpp
 ```
-##### Note: As shown above, the file extension for a Q++ header file is 4-letters: .hqpp  
+##### Note: As shown above, the file extension for a Q++ header file is 4 letters: .hqpp  
 
 #### OPTIONS  
 ```
