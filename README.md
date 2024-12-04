@@ -80,7 +80,7 @@ CLI Tools
 ### General Command Structure  
 ```xport [options...][output_directory]```
 
-#### If no output or target directory is specified, then xPort assumes the working directory.
+#### If no output directory is specified, then xPort assumes the working directory.
 
 Example Command:  
 ```xport -g -sys=win -lang=c|qpp -gfx=dx|v -phys=opx|npx /bin```
