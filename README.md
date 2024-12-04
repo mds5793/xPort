@@ -34,7 +34,7 @@ C# - (Not Currently Supported)
 Java - (Not Currently Supported)  
  
 ### Target Languages  
-##### Non-Quantum
+##### Classical
 C/C++  
 Swift  
 C# - (Not Currently Supported)  
