@@ -17,11 +17,11 @@
 Windows  
 macOS  
 Linux  
-steamOS  
 swiftOS  
 razerOS  
 CUDA  
-Android  
+Android
+steamOS - (Not Currently Supported)  
 Playstation - (Not Currently Supported)  
 XBOX - (Not Currently Supported)  
 Nintendo - (Not Currently Supported)  
