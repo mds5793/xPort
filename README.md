@@ -152,6 +152,8 @@ TAR_PHYSX = [npx = NVIDIA PHYSX][opx = OPEN PHYSICS]
 ```
 <h1 align="center">Software Distributables & Documentation</h1>  
 
+#### (Please Note: Currently there are no executables available, the links simply loop back to this README...)  
+
 ### GUI Application
 Windows - [Download](https://github.com/mds5793/xPort-Guidelines)  
 macOS - [Download](https://github.com/mds5793/xPort-Guidelines)  
