@@ -21,7 +21,7 @@ swiftOS - (incl. razerOS)
 CUDA  
 Android  
 Playstation   
-XBOX 
+XBOX  
 Nintendo - (Not Currently Supported)  
 iOS - (Not Currently Supported)    
 
