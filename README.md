@@ -27,7 +27,7 @@ XBOX - (Not Currently Supported)
 Nintendo - (Not Currently Supported)  
 iOS - (Not Currently Supported)    
 
-### Source Languages:  
+### Source Languages  
 C/C++  
 Swift  
 C# - (Not Currently Supported)  
@@ -43,25 +43,25 @@ Java - (Not Currently Supported)
 Q++  
 Q# - (Not Currently Supported)  
 
-### Source Graphics API:  
+### Source Graphics API  
 DirectX  
 Metal  
 Vulkan  
 
-### Target Graphics API:  
+### Target Graphics API  
 DirectX  
 Metal  
 Vulkan  
 
-### Source Physics API:  
+### Source Physics API   
 NVIDIA PhysX  
 OpenPhysics  
 
-### Target Physics API:  
+### Target Physics API  
 NVIDIA PhysX  
 OpenPhysics  
 
-### xPort Block Comment Tags: 
+### xPort Block Comment Tags  
 In order for xPort to function properly, use the following block comment tags as necessary.  
 Using an LLM to produce the tags is recommended.  
 Using an LLM to perform unit tests and ensuring the output is identical is also recommended.  
