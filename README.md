@@ -5,7 +5,7 @@ Q++ Header File extension: .qh
 
 Ideally, it would be nice to have a Package Manager in xPort where you can import Open Source or Proprietary Bindings for the Target Systems.  
 
-Supported Target Systems (Each Target System has to be trained on an LLM):  
+### Supported Target Systems (Each Target System has to be trained on an LLM):  
 Windows  
 macOS  
 swiftOS  
@@ -14,33 +14,32 @@ CUDA
 iOS - (Not Currently Supported)  
 Android - (Not Currently Supported)  
 
-Source Languages:  
+### Supported Source Languages:  
 C  
 C++  
 Swift  
 C# - (Not Currently Supported)  
 Java - (Not Currently Supported)  
-
-(It should be possible to download Target Language SDK/Bindings for the GFX and Physics Libraries in the Package Manager)  
-Target Languages (QOOL - Quantum Object Oriented Languages):  
+ 
+### Supported Target Languages (QOOL - Quantum Object Oriented Languages):  
 Q++  
 Q# - (Not Currently Supported)  
 
-Source Graphics API:  
+### Source Graphics API:  
 DirectX  
 Metal  
 Vulkan  
 
-Target Graphics API:  
+### Target Graphics API:  
 DirectX  
 Metal  
 Vulkan  
 
-Source Physics API:  
+### Source Physics API:  
 NVIDIA PhysX - (Not Currently Supported)  
 OpenPhysics  
 
-Target Physics API:  
+### Target Physics API:  
 NVIDIA PhysX - (Not Currently Supported)  
 OpenPhysics  
 
@@ -49,7 +48,7 @@ In order for xPort to function properly, use the following block comments as nec
 Using a LLM to produce these following descriptors is recommended.  
 Using a LLM to perform Unit Tests and ensuring the return results are the same as the source language or framework is also recommended.  
 
-xPort Block Comment Descriptors:  
+### xPort Block Comment Descriptors:  
 @exclude - Use this before every class, struct, or function you wish to exclude from being ported via xPort if it is a Software Trade Secret.  
 @brief - Briefly describe the functionality or purpose of your function.  
 @param - Use this to describe all the parameters of your functions.  
