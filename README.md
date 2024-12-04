@@ -72,7 +72,7 @@ Exception: No equivalent class, struct or function in target API. Please provide
 #### Best Practices:  
 It would be helpful for porting purposes if using the @exception tag to allow the LLM to offer a brief description.  
 Such as allowing the LLM provided in xPort to read the @brief, @param, and @return tags.  
-However, the LLM **<ins>_WILL NOT_</ins>** read the data or algorithms inside the class, function, or struct that is being excluded.  
+However, the LLM **<ins>_WILL NOT_</ins>** read the data or algorithms inside the class, function, or struct that is being ignored.  
 
 <h2 align="center">
 CLI Tools 
