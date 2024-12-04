@@ -107,7 +107,7 @@ xport --version
 
 #### OPTIONS  
 ```
--g = Generate Block Comment Descriptors (w/o @exclude)
+-g = GENERATE BLOCK COMMENT DESCRIPTORS (w/o @exclude)
  
 -sys = [TAR_SYS]  
 
