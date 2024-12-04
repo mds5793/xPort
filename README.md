@@ -111,7 +111,17 @@ xport --version
  
 -sys = [TAR_SYS]  
 
-TAR_SYS = [win = WINDOWS][mac = MACOS][lin = LINUX][sos = SWIFTOS][ios = iOS][apk = ANDROID][ps = PLAYSTATION][xbx = XBOX][nin = NINTENDO][cuda=  CUDA]  
+TAR_SYS
+[win = WINDOWS]
+[mac = MACOS]
+[lin = LINUX]
+[sos = SWIFTOS]
+[ios = iOS]
+[apk = ANDROID]
+[ps = PLAYSTATION]
+[xbx = XBOX]
+[nin = NINTENDO]
+[cuda=  CUDA]  
 
 -lang = [IN_LANG | OUT_LANG]  
 
