@@ -29,7 +29,7 @@ viii.[Block Comment Tags](#block-comment-tags)
    i. [General Command Structure](#general-command-structure)  
    ii. [Command Line Options](#command-line-options)  
 
-3. [Software Distributables & Documentation](#software-distributables-&-documentation)  
+3. [Software Distributables & Documentation](#software-distributables-and-documentation)  
    i. [GUI Application](#gui-application)  
    ii. [Documentation](#documentation)  
 
@@ -176,7 +176,7 @@ TAR_GFX = [dx = DIRECTX][m = METAL][v = VULKAN]
 SRC_PHYSX = [npx = NVIDIA PHYSX][opx = OPEN PHYSICS]  
 TAR_PHYSX = [npx = NVIDIA PHYSX][opx = OPEN PHYSICS]  
 ```
-<h1 align="center">Software Distributables & Documentation</h1>  
+<h1 align="center">Software Distributables and Documentation</h1>  
 
 #### (Please Note: Documentation and executables are not currently available. The links below simply loop back to this README...)  
 
