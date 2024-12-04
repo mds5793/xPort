@@ -106,7 +106,10 @@ Example Command:
 [lin = LINUX]  
 [sos = SWIFTOS]  
 [ios = iOS]  
-[apk = ANDROID]  
+[apk = ANDROID]
+[ps = PLAYSTATION]
+[xbx = XBOX]
+[nin = NINTENDO]  
 [cuda = CUDA]  
 TAR_SYS = [win][mac][lin][sos][ios][apk][cuda]  
 
