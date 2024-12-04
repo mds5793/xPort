@@ -20,7 +20,7 @@ Linux - (incl. steamOS)
 swiftOS - (incl. razerOS)  
 CUDA  
 Android  
-Playstation - (Not Currently Supported)  
+Playstation   
 XBOX - (Not Currently Supported)  
 Nintendo - (Not Currently Supported)  
 iOS - (Not Currently Supported)    
