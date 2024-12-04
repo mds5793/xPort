@@ -83,7 +83,7 @@ CLI Tools
 #### If no output or target directory is specified, then xPort assumes the working directory.
 
 Example Command:  
-```xport -g -sys=win -lang=c|qpp -gfx=dx|v -phys=opx|npx bin```
+```xport -g -sys=win -lang=c|qpp -gfx=dx|v -phys=opx|npx bin/dir/```
 
 ##### Note: In order to see a list of the options on the command line, use the following syntax:  
 ```
