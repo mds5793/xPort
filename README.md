@@ -15,7 +15,7 @@ xPort is licensed under the MIT License.
 This README serves as a technical guideline and roadmap for the development of xPort.  
 
 ### Table of Contents  
-1. Software Description  
+1. [Software Description](#software-description)
    i.[Target Platforms](#target-platforms)  
   ii.[Source Languages](#source-languages)  
  iii.[Target Languages](#target-languages)  
@@ -23,7 +23,9 @@ This README serves as a technical guideline and roadmap for the development of x
    v.[Target Graphics API](#target-graphics-api)  
   vi.[Source Physics API](#source-physics-api)  
  vii.[Target Physics API](#target-physics-api)  
-viii.[xPort Block Comment Tags](#xport-block-comment-tags)  
+viii.[Block Comment Tags](#block-comment-tags)
+
+2. [CLI Tools](#cli-tools)
 
 ### Target Platforms   
 ##### Note: If possible the native windowing API should be used.
@@ -72,7 +74,7 @@ OpenPhysics
 NVIDIA PhysX    
 OpenPhysics  
 
-### xPort Block Comment Tags  
+### Block Comment Tags  
 In order for xPort to function properly, use the following block comment tags as necessary.  
 Using an LLM to produce the tags is recommended.  
 Using an LLM to perform unit tests and ensuring the output is identical is also recommended.  
