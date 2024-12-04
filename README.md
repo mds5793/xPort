@@ -13,7 +13,7 @@
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/xPort-Layout.png?raw=true" width=768 />
 </p>
 
-### Supported Target Systems (Each Target System has to be trained on an LLM):  
+### Target Systems (Each Target System has to be trained on an LLM):  
 Windows  
 macOS  
 swiftOS  
@@ -22,14 +22,14 @@ CUDA
 iOS - (Not Currently Supported)  
 Android - (Not Currently Supported)  
 
-### Supported Source Languages:  
+### Source Languages:  
 C  
 C++  
 Swift  
 C# - (Not Currently Supported)  
 Java - (Not Currently Supported)  
  
-### Supported Target Languages (QOOL - Quantum Object Oriented Languages):  
+### Target Languages (QOOL - Quantum Object Oriented Languages):  
 Q++  
 Q# - (Not Currently Supported)  
 
