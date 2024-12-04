@@ -5,8 +5,10 @@
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/q_sharp.png?raw=true" width=400 />
 </p>
 
+## GUI Layout
+
 <p align="center">
- <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/xPort-Layout.png?raw=true" width=400 />
+ <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/xPort-Layout.png?raw=true" width=512 />
 </p>
 
 ### Supported Target Systems (Each Target System has to be trained on an LLM):  
