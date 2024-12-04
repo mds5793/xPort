@@ -98,6 +98,11 @@ Example Command:
 xport --help
 ```
 
+##### Note: In order to view the version number use the following command:  
+```
+xport --version
+```
+
 #### OPTIONS  
 ```
 -g = Generate Block Comment Descriptors (w/o @exclude)
