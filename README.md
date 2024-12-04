@@ -13,10 +13,11 @@
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/xPort-Layout.png?raw=true" width=768 />
 </p>
 
-### Target Systems (Each Target System has to be trained on an LLM):  
-Arch Linux (incl. steamOS)    
+### Target Systems (Each Target System has to be trained on an LLM):      
 Windows  
-macOS  
+Arch Linux  
+macOS 
+steamOS  
 swiftOS  
 razerOS  
 CUDA  
