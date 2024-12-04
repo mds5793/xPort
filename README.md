@@ -21,11 +21,11 @@ steamOS
 swiftOS  
 razerOS  
 CUDA  
+Android  
 Playstation - (Not Currently Supported)  
 XBOX - (Not Currently Supported)  
 Nintendo - (Not Currently Supported)  
-iOS - (Not Currently Supported)  
-Android - (Not Currently Supported)  
+iOS - (Not Currently Supported)    
 
 ### Source Languages:  
 C/C++  
