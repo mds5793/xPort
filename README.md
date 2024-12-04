@@ -64,7 +64,7 @@ Using an LLM to perform unit tests and ensuring the output is identical is also 
 @return - Use this to describe the expected result of your function and any values that are returned.
 ```
 
-#### If there is no equivalent class, struct or function OR the @exception tag is used then it should throw the following exception:  
+#### If there is no equivalent class, struct or function <ins>***_OR_***</ins> the @exception tag is used then it should throw the following exception:  
 ```
 Exception: No equivalent class, struct, or function in target API. Please provide your own implementation.
 ```
