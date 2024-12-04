@@ -20,10 +20,10 @@ Linux - (incl. steamOS)
 swiftOS - (incl. razerOS)  
 CUDA  
 Android  
+iOS  
 Playstation   
 XBOX  
-Nintendo - (Not Currently Supported)  
-iOS - (Not Currently Supported)    
+Nintendo   
 
 ### Source Languages  
 C/C++  
