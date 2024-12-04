@@ -104,9 +104,9 @@ Such as allowing the LLM provided in xPort to read the _```@brief```_, _```@para
 This could be achieved by enabling the verbose (```-v```) command line flag in xPort.  
 However, the LLM **<ins>_WILL NOT_</ins>** read the data or algorithms inside the class, function, or struct that is being ignored.  
 
-<h2 align="center">
-CLI Tools
-</h2>
+[Back to top...](#table-of-contents)
+
+<h2 align="center">CLI Tools</h2>
 
 ### General Command Structure  
 ```xport [options...][output_directory]```
@@ -174,8 +174,10 @@ TAR_GFX = [dx = DIRECTX][m = METAL][v = VULKAN]
 -phys=[SRC_PHYSX | TAR_PHYSX]
   
 SRC_PHYSX = [npx = NVIDIA PHYSX][opx = OPEN PHYSICS]  
-TAR_PHYSX = [npx = NVIDIA PHYSX][opx = OPEN PHYSICS]  
+TAR_PHYSX = [npx = NVIDIA PHYSX][opx = OPEN PHYSICS]
 ```
+[Back to top...](#table-of-contents)
+
 <h1 align="center">Software Distributables and Documentation</h1>  
 
 #### (Please Note: Documentation and executables are not currently available. The links below simply loop back to this README...)  
