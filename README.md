@@ -60,8 +60,9 @@ Error: No equivalent struct, class, or function in target API. Please provide yo
 ```
 
 #### Best Practices:  
-It would be helpful for the porting team if using the @exclude tag to allow the LLM to offer a brief description for @brief, @param, and @return descriptors.  
-However, the LLM WILL not read the data, or algorithms inside the class, function, or struct that is being excluded.  
+It would be helpful for the porting team when using the @exclude tag to allow the LLM to offer a brief description.  
+Such as allowing the LLM provided in xPort to read the @brief, @param, and @return descriptors.  
+However, the LLM WILL NOT read the data or algorithms inside the class, function, or struct that is being excluded.  
 
 ## CLI COMMANDS 
 xport [options...][input directory][output directory]  
