@@ -13,7 +13,7 @@
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/xPort-Layout.png?raw=true" width=768 />
 </p>
 
-### Target Systems      
+### Target Platforms      
 Windows  
 macOS  
 Linux  
@@ -21,6 +21,9 @@ steamOS
 swiftOS  
 razerOS  
 CUDA  
+Playstation - (Not Currently Supported)
+XBOX - (Not Currently Supported)
+Nintendo - (Not Currently Supported)
 iOS - (Not Currently Supported)  
 Android - (Not Currently Supported)  
 
@@ -31,7 +34,13 @@ Swift
 C# - (Not Currently Supported)  
 Java - (Not Currently Supported)  
  
-### Target Languages (QOOL - Quantum Object Oriented Languages):  
+### Target Languages  
+C  
+C++  
+Swift  
+C# - (Not Currently Supported)
+Java - (Not Currently Supported)  
+#### QOOL's (Quantum Object Oriented Languages)  
 Q++  
 Q# - (Not Currently Supported)  
 
