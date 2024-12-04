@@ -12,7 +12,14 @@ xPort is a platform agnostic AI enhanced porting toolkit developed to ease the b
 xPort was originally intended to give indie game studios an easy avenue for porting their projects to different platforms.  
 xPort is licensed under the MIT License. 
 
-This README serves as a technical guideline and roadmap for the development of xPort.
+This README serves as a technical guideline and roadmap for the development of xPort.  
+
+### Table of Contents  
+[Target Platforms](#target-platforms)  
+[Source Languages](#source-languages)  
+[Target Languages](#target-languages)  
+[Source Graphics API](#source-graphics-api)  
+[Target Physics API](#target-graphics-api)  
 
 ### Target Platforms   
 ##### Note: If possible the native windowing API should be used.
