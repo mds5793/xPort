@@ -67,7 +67,11 @@ Using an LLM to perform unit tests and ensuring the output is identical is also 
 
 #### If there is no equivalent class, struct or function <ins>***_OR_***</ins> the _```@exception```_ tag is used then it should throw the following exception:  
 ```
-Exception: No equivalent class, struct or function called @[name] in target API. Please provide your own implementation.
+Exception: No equivalent class, struct or function called @name in target API. Please provide your own implementation.
+@name has the following tags:
+@brief - [insert brief here]
+@param - [insert parameter information here]
+@return - [insert return value information here]
 ```
 
 #### Best Practices:  
