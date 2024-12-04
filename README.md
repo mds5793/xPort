@@ -16,8 +16,8 @@
 ### Target Platforms      
 Windows  
 macOS  
-Linux - (incl. steamOS)
-swiftOS - (incl. razerOS)
+Linux - (incl. steamOS)  
+swiftOS - (incl. razerOS)  
 CUDA  
 Android  
 Playstation - (Not Currently Supported)  
