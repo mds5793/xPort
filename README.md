@@ -28,15 +28,13 @@ iOS - (Not Currently Supported)
 Android - (Not Currently Supported)  
 
 ### Source Languages:  
-C  
-C++  
+C/C++  
 Swift  
 C# - (Not Currently Supported)  
 Java - (Not Currently Supported)  
  
 ### Target Languages  
-C  
-C++  
+C/C++  
 Swift  
 C# - (Not Currently Supported)
 Java - (Not Currently Supported)  
