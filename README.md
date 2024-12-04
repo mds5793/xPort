@@ -73,7 +73,7 @@ Using an LLM to perform unit tests and ensuring the output is identical is also 
 @return - Use this to describe the expected result of your function and any values that are returned.
 ```
 
-#### If there is no equivalent function, struct, or class OR @exclude is used then it should throw the following error:  
+#### If there is no equivalent class, struct or function OR the @exclude tag is used then it should throw the following error:  
 ```
 Error: No equivalent struct, class, or function in target API. Please provide your own implementation.
 ```
