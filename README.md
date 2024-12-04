@@ -72,7 +72,9 @@ It would be helpful for the porting team when using the @exclude tag to allow th
 Such as allowing the LLM provided in xPort to read the @brief, @param, and @return descriptors.  
 However, the LLM WILL NOT read the data or algorithms inside the class, function, or struct that is being excluded.  
 
-## CLI COMMANDS 
+<h2 align="center">
+CLI COMMANDS 
+</h2>
 ```xport [options...][input directory][output directory]```
 
 #### If no output or target directory is specified, then xPort should assume the working directory.  
