@@ -53,7 +53,7 @@ Using a LLM to perform Unit Tests and ensuring the return results are the same a
 @param - Use this to describe all the parameters of your functions.  
 @return - Use this to describe the expected result of your function and any values that are returned.    
 
-If there is no equivalent function, struct, or class or @exclude is used then it should throw the following error:  
+#### If there is no equivalent function, struct, or class or @exclude is used then it should throw the following error:  
 Error: No equivalent struct, class, or function in target API. Please provide your own implementation.  
 
 #### Best Practices:  
