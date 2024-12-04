@@ -45,11 +45,11 @@ Metal
 Vulkan  
 
 ### Source Physics API:  
-NVIDIA PhysX - (Not Currently Supported)  
+NVIDIA PhysX  
 OpenPhysics  
 
 ### Target Physics API:  
-NVIDIA PhysX - (Not Currently Supported)  
+NVIDIA PhysX  
 OpenPhysics  
 
 ### xPort Block Comment Descriptors: 
