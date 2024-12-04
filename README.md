@@ -99,7 +99,7 @@ Exception: No equivalent class, struct or function called @name in target API. P
 ```
 
 #### Best Practices:  
-It would be helpful for porting purposes if using the _```@exception```_ tag to allow the LLM to offer a brief description.  
+It would be helpful for porting purposes when using the _```@exception```_ tag to allow the LLM to offer a brief description.  
 Such as allowing the LLM provided in xPort to read the _```@brief```_, _```@param```_, and _```@return```_ tags.  
 This could be achieved by enabling the verbose (```-v```) command line flag in xPort.  
 However, the LLM **<ins>_WILL NOT_</ins>** read the data or algorithms inside the class, function, or struct that is being ignored.  
