@@ -5,7 +5,8 @@
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/q_sharp.png?raw=true" width=400 />
 </p>
 
-### Target Platforms - (Where possible, the native windowing API should be used)  
+### Target Platforms  
+##### Note: When possible, the native windowing API should be used
 Windows  
 macOS  
 Linux - (incl. steamOS)  
