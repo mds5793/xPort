@@ -127,7 +127,7 @@ TAR_SYS
 [sos = SWIFTOS]
 [ios = iOS]
 [apk = ANDROID]
-[ps = PLAYSTATION]
+[psn = PLAYSTATION]
 [xbx = XBOX]
 [nin = NINTENDO]
 [cuda=  CUDA]  
