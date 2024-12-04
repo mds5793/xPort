@@ -28,18 +28,18 @@ Nintendo
 ### Source Languages  
 C/C++  
 Swift  
-C# - (Not Currently Supported)  
-Java - (Not Currently Supported)  
+C#  
+Java  
  
 ### Target Languages  
 ##### Classical
 C/C++  
 Swift  
-C# - (Not Currently Supported)  
-Java - (Not Currently Supported)  
+C#  
+Java  
 ##### Quantum
 Q++  
-Q# - (Not Currently Supported)  
+Q#  
 
 ### Source Graphics API  
 DirectX  
