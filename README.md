@@ -66,7 +66,8 @@ However, the LLM WILL NOT read the data or algorithms inside the class, function
 
 ## CLI COMMANDS 
 xport [options...][input directory][output directory]  
-(If not input directory is provided it will assume the working directory, likewise output directory also).  
+
+#### If no output or target directory is specified, then xPort should assume the working directory.  
 
 Example Command:  
 xport -sys=win -lang=c|qpp -gfx=dx|v -phys=opx|npx ../[curr_dir] ../bin/  
