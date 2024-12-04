@@ -181,10 +181,10 @@ TAR_PHYSX = [npx = NVIDIA PHYSX][opx = OPEN PHYSICS]
 #### (Please Note: Documentation and executables are not currently available. The links below simply loop back to this README...)  
 
 ### GUI Application
-Windows - [Download](https://github.com/mds5793/xPort-Guidelines)  
-macOS - [Download](https://github.com/mds5793/xPort-Guidelines)  
-Linux - [Download](https://github.com/mds5793/xPort-Guidelines)  
+Windows - [Download](#software-description)  
+macOS - [Download](#software-description)  
+Linux - [Download](#software-description)  
 
 ### Documentation
-[API Documentation](https://github.com/mds5793/xPort-Guidelines)  
-[Q++ Compiler Source Code & Documentation](https://github.com/mds5793/xPort-Guidelines)
+[API Documentation](#software-description)  
+[Q++ Compiler Source Code & Documentation](#software-description)
