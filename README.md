@@ -4,9 +4,6 @@
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/q_pp.png?raw=true" width=512 align="center">
 </p>
 
-Q++ Source File extension: .qpp  
-Q++ Header File extension: .qh  
-
 Ideally, it would be nice to have a Package Manager in xPort where you can import Open Source or Proprietary Bindings for the Target Systems.  
 
 ### Supported Target Systems (Each Target System has to be trained on an LLM):  
