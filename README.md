@@ -1,13 +1,8 @@
 # Supported Systems and Languages for xPort - Porting Software  
 
 <p align="center">
-<<<<<<< HEAD
- <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/q_pp.png?raw=true" width=400 />
- <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/q_sharp.png?raw=true" width=400 />
-=======
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/q_pp.png?raw=true" width=450 />
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/q_sharp.png?raw=true" width=450 />
->>>>>>> f894684 (Added img folder)
 </p>
 
 ### Supported Target Systems (Each Target System has to be trained on an LLM):  
