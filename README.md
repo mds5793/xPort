@@ -56,7 +56,7 @@ OpenPhysics
 In order for xPort to function properly, use the following block comment tags as necessary.  
 Using an LLM to produce the tags is recommended.  
 Using an LLM to perform unit tests and ensuring the output is identical is also recommended.  
-##### Note: xPort is able to generate the tags with the -g command line option, but it won't generate @exception tags. You must add those manually.   
+##### Note: xPort is able to generate the tags with the -g command line option, but it won't generate _```@exception```_ tags. You must add those manually.   
 ```
 @exception - Use this tag to tell xPort to ignore the class, struct or function if it's proprietary. 
 @brief - Briefly describe the functionality or purpose of your function.  
@@ -64,14 +64,14 @@ Using an LLM to perform unit tests and ensuring the output is identical is also 
 @return - Use this to describe the expected result of your function and any values that are returned.
 ```
 
-#### If there is no equivalent class, struct or function <ins>***_OR_***</ins> the @exception tag is used then it should throw the following exception:  
+#### If there is no equivalent class, struct or function <ins>***_OR_***</ins> the _```@exception```_ tag is used then it should throw the following exception:  
 ```
 Exception: No equivalent class, struct or function in target API. Please provide your own implementation.
 ```
 
 #### Best Practices:  
-It would be helpful for porting purposes if using the @exception tag to allow the LLM to offer a brief description.  
-Such as allowing the LLM provided in xPort to read the @brief, @param, and @return tags.  
+It would be helpful for porting purposes if using the _```@exception```_ tag to allow the LLM to offer a brief description.  
+Such as allowing the LLM provided in xPort to read the _```@brief```_, _```@param```_, and _```@return```_ tags.  
 However, the LLM **<ins>_WILL NOT_</ins>** read the data or algorithms inside the class, function, or struct that is being ignored.  
 
 <h2 align="center">
@@ -89,7 +89,7 @@ Example Command:
 #### If desired you can run xport for the sole purpose of generating tags in your code as follows:  
 ```xport -g /bin```  
 
-Where bin is the output directory. This is useful if you want to manually add @exception tags to your code.
+Where bin is the output directory. This is useful if you want to manually add _```@exception```_ tags to your code.
 
 ##### Note: In order to see a list of the options on the command line, use the following syntax:  
 ```
