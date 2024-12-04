@@ -13,8 +13,8 @@ swiftOS - (incl. razerOS)
 CUDA  
 Android  
 iOS  
-Playstation - (Not Yet Supported)  
-XBOX - (Not Yet Supported)  
+Playstation   
+XBOX    
 Nintendo - (Not Yet Supported)  
 
 ### Source Languages  
