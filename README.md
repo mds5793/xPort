@@ -1,6 +1,6 @@
 # Supported Systems and Languages for xPort - Porting Software  
 
-<img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/q_pp.png?raw=true" width=256>
+<img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/q_pp.png?raw=true" width=512>
 
 Q++ Source File extension: .qpp  
 Q++ Header File extension: .qh  
