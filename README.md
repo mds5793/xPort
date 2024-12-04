@@ -61,8 +61,8 @@ Using an LLM to perform unit tests and ensuring the output is identical is also 
 ##### Note: xPort is able to generate the tags with the -g command line option, but it won't generate _```@exception```_ tags. You must add those manually.   
 ```
 @exception - Use this tag to tell xPort to ignore the class, struct or function if it's proprietary.  
-@name - Use this to provide a name for your function.
-@brief - Briefly describe the functionality or purpose of your function.  
+@name - Use this to provide a name for your class, struct or function.
+@brief - Briefly describe the functionality or purpose of your class, struct or function.  
 @param - Use this to describe all the parameters of your functions.  
 @return - Use this to describe the expected result of your function and any values that are returned.
 ```
