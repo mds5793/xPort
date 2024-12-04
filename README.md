@@ -20,26 +20,26 @@ Linux - (incl. steamOS)
 swiftOS - (incl. razerOS)  
 CUDA  
 Android  
-iOS  
-Playstation   
-XBOX  
-Nintendo   
+iOS - (Not Yet Supported)  
+Playstation - (Not Yet Supported)  
+XBOX - (Not Yet Supported)  
+Nintendo - (Not Yet Supported)  
 
 ### Source Languages  
 C/C++  
 Swift  
 C#  
-Java  
+Java - (Not Yet Supported)  
  
 ### Target Languages  
 ##### Classical
 C/C++  
 Swift  
 C#  
-Java  
+Java - (Not Yet Supported)  
 ##### Quantum
 Q++  
-Q#  
+Q# - (Not Yet Supported)
 
 ### Source Graphics API  
 DirectX  
@@ -52,11 +52,11 @@ Metal
 Vulkan  
 
 ### Source Physics API   
-NVIDIA PhysX  
+NVIDIA PhysX - (Not Yet Supported)   
 OpenPhysics  
 
 ### Target Physics API  
-NVIDIA PhysX  
+NVIDIA PhysX - (Not Yet Supported)  
 OpenPhysics  
 
 ### xPort Block Comment Tags  
