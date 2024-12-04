@@ -103,7 +103,7 @@ xport --help
 xport --version
 ```
 
-##### Note: xPort will not compile your code, you must do that yourself with the appropriate compiler.  
+##### Note: xPort <ins>**_WILL NOT_**</ins> compile your code, you must do that yourself with the appropriate compiler.  
 
 #### OPTIONS  
 ```
