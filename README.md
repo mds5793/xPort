@@ -65,6 +65,7 @@ OpenPhysics
 In order for xPort to function properly, use the following block comments as necessary.  
 Using an LLM to produce the descriptors is recommended.  
 Using an LLM to perform unit tests and ensuring the output is identical is also recommended.  
+##### Note: xPort is able to generate the descriptors with the -g command line option, but it won't generate @exclude tags.
 ```
 @exclude - Use this tag to tell xPort to ignore the class, struct or function if it's proprietary. 
 @brief - Briefly describe the functionality or purpose of your function.  
