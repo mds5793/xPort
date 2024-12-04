@@ -45,8 +45,8 @@ OpenPhysics
 
 ### xPort Block Comment Descriptors: 
 In order for xPort to function properly, use the following block comments as necessary.  
-Using a LLM to produce these following descriptors is recommended.  
-Using a LLM to perform Unit Tests and ensuring the return results are the same as the source language or framework is also recommended.  
+Using an LLM to produce these following descriptors is recommended.  
+Using an LLM to perform Unit Tests and ensuring the return results are the same as the source language or framework is also recommended.  
 ```
 @exclude - Use this tag before every class, struct, or function if it is a proprietary software trade secret and xPort will ignore it.  
 @brief - Briefly describe the functionality or purpose of your function.  
