@@ -85,7 +85,7 @@ CLI Tools
 Example Command:  
 ```xport -g -sys=win -lang=c|qpp -gfx=dx|v -phys=opx|npx /bin```  
 
-#### If desired you can run xport for the sole purpose of generating comments in your code as follows:  
+#### If desired you can run xport for the sole purpose of generating tags in your code as follows:  
 ```xport -g /bin```  
 
 Where bin is the output directory.
