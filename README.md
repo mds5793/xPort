@@ -16,7 +16,7 @@
 ### Target Systems (Each Target System has to be trained on an LLM):      
 Windows  
 Arch Linux  
-macOS 
+macOS  
 steamOS  
 swiftOS  
 razerOS  
