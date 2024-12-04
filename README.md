@@ -5,7 +5,7 @@
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/q_sharp.png?raw=true" width=400 />
 </p>
 
-<h1 align="center">Software Description</h1>
+<h1 align="center">Software Description</h1>  
 ### Target Platforms  
 ##### Note: If possible the native windowing API should be used.
 Windows  
