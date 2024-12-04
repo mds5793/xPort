@@ -105,10 +105,10 @@ xport --version
 
 ##### Note: xPort <ins>**_WILL NOT_**</ins> compile your code, you must do that yourself with the appropriate compiler.  
 
-### Q++ Compiler  
-Offered with this software is an open-source compiler for q++ it is available under the GNU Compiler Collection.  
+#### Q++ Compiler  
+Offered with this software is an open-source compiler for q++ available under the GPL v3.0.  
 
-### Example Q++ Compiler Syntax  
+#### Example Q++ Compiler Syntax  
 ```
 gq++ -o main main.qpp
 ```
