@@ -116,7 +116,7 @@ q++ -o main main.qpp lib.hqpp
 
 #### OPTIONS  
 ```
--g = GENERATE BLOCK COMMENT DESCRIPTORS (w/o @exclude)
+-g = GENERATE BLOCK COMMENT DESCRIPTORS
  
 -sys = [TAR_SYS]  
 
