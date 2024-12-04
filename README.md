@@ -119,7 +119,7 @@ TAR_SYS = [win][mac][lin][sos][ios][apk][cuda]
 IN_LANG = [c][cpp][csh][java][swift]  
 
 [qsh = Q#]  
-[qpp = Q++]
+[qpp = Q++]  
 [c = ANSI C]  
 [cpp = C++]  
 [csh = C#]  
