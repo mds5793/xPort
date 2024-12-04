@@ -90,7 +90,7 @@ CLI Tools
 Example Command:  
 ```xport -g -sys=win -lang=c|qpp -gfx=dx|v -phys=opx|npx /bin```  
 
-#### If desired you can run xport for the sole purpose of generating tags in your code as follows:  
+#### If desired you can run xPort for the sole purpose of generating tags in your code as follows:  
 ```xport -g /bin```  
 
 Where bin is the output directory. This is useful if you want to manually add _```@exception```_ tags to your code prior to translation.
