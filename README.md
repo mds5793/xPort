@@ -6,7 +6,7 @@
 </p>
 
 ### Target Platforms  
-##### Note: When possible, the native windowing API should be used
+##### Note: If possible the native windowing API should be used.
 Windows  
 macOS  
 Linux - (incl. steamOS)  
