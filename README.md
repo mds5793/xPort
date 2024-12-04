@@ -139,14 +139,15 @@ IN_LANG = [c][cpp][csh][java][swift]
 [swift = Swift]  
 OUT_LANG = [qsh][qpp][c][cpp][csh][java][swift]  
 
--gfx=[SRC_GFX | TAR_GFX]  
--phys=[SRC_PHYSX | TAR_PHYSX]  
+-gfx=[SRC_GFX | TAR_GFX]
 
 [dx = DIRECTX]  
 [m = METAL]  
 [v = VULKAN]  
 SRC_GFX = [dx][m][v]  
-TAR_GFX = [dx][m][v]  
+TAR_GFX = [dx][m][v]
+
+-phys=[SRC_PHYSX | TAR_PHYSX]
 
 [npx = NVIDIA PHYSX]  
 [opx = OPEN PHYSICS]  
