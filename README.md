@@ -103,15 +103,17 @@ Example Command:
 
 [win = WINDOWS]  
 [mac = MACOS]  
-[lin = LINUX]  
-[sos = SWIFTOS]  
+[lin = LINUX]
+[stm = STEAMOS]  
+[sos = SWIFTOS]
+[ros = RAZEROS]
 [ios = iOS]  
 [apk = ANDROID]
 [ps = PLAYSTATION]
 [xbx = XBOX]
 [nin = NINTENDO]  
 [cuda = CUDA]  
-TAR_SYS = [win][mac][lin][sos][ios][apk][cuda]  
+TAR_SYS = [win][mac][lin][stm][sos][ros][ios][apk][ps][xbx][nin][cuda]  
 
 -lang = [IN_LANG | OUT_LANG]  
 
