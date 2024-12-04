@@ -93,7 +93,7 @@ Example Command:
 #### If desired you can run xport for the sole purpose of generating tags in your code as follows:  
 ```xport -g /bin```  
 
-Where bin is the output directory. This is useful if you want to manually add _```@exception```_ tags to your code.
+Where bin is the output directory. This is useful if you want to manually add _```@exception```_ tags to your code prior to translation.
 
 ##### Note: In order to see a list of the options on the command line, use the following syntax:  
 ```
