@@ -15,11 +15,15 @@ xPort is licensed under the MIT License.
 This README serves as a technical guideline and roadmap for the development of xPort.  
 
 ### Table of Contents  
-[Target Platforms](#target-platforms)  
-[Source Languages](#source-languages)  
-[Target Languages](#target-languages)  
-[Source Graphics API](#source-graphics-api)  
-[Target Physics API](#target-graphics-api)  
+1. Software Description
+   i.[Target Platforms](#target-platforms)  
+  ii.[Source Languages](#source-languages)  
+ iii.[Target Languages](#target-languages)  
+  iv.[Source Graphics API](#source-graphics-api)  
+   v.[Target Graphics API](#target-graphics-api)
+  vi.[Source Physics API](#source-physics-api)
+ vii.[Target Physics API](#target-physics-api)
+viii.[xPort Block Comment Tags](#xport-block-comment-tags) 
 
 ### Target Platforms   
 ##### Note: If possible the native windowing API should be used.
