@@ -16,12 +16,10 @@
 ### Target Platforms      
 Windows  
 macOS  
-Linux  
-swiftOS  
-razerOS  
+Linux - (incl. steamOS)
+swiftOS - (incl. razerOS)
 CUDA  
 Android  
-steamOS - (Not Currently Supported)  
 Playstation - (Not Currently Supported)  
 XBOX - (Not Currently Supported)  
 Nintendo - (Not Currently Supported)  
@@ -103,17 +101,15 @@ Example Command:
 
 [win = WINDOWS]  
 [mac = MACOS]  
-[lin = LINUX]
-[stm = STEAMOS]  
+[lin = LINUX]  
 [sos = SWIFTOS]
-[ros = RAZEROS]
 [ios = iOS]  
 [apk = ANDROID]
 [ps = PLAYSTATION]
 [xbx = XBOX]
 [nin = NINTENDO]  
 [cuda = CUDA]  
-TAR_SYS = [win][mac][lin][stm][sos][ros][ios][apk][ps][xbx][nin][cuda]  
+TAR_SYS = [win][mac][lin][sos][ios][apk][ps][xbx][nin][cuda]  
 
 -lang = [IN_LANG | OUT_LANG]  
 
