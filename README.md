@@ -88,7 +88,9 @@ CLI Tools
 ### General Command Structure  
 ```xport [options...][input directory][output directory]```
 
-#### If no output or target directory is specified, then xPort assumes the working directory.  
+#### If no output or target directory is specified, then xPort assumes the working directory.
+
+##### Note: xPort will not compile your code, you must do that yourself with the appropriate compiler.  
 
 Example Command:  
 ```xport -g -sys=win -lang=c|qpp -gfx=dx|v -phys=opx|npx ../[curr_dir] ../bin/```
