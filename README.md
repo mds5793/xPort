@@ -99,7 +99,7 @@ This could be achieved by enabling the verbose (```-v```) command line flag in x
 However, the LLM **<ins>_WILL NOT_</ins>** read the data or algorithms inside the class, function, or struct that is being ignored.  
 
 <h2 align="center">
-CLI Tools 
+CLI Tools
 </h2>
 
 ### General Command Structure  
