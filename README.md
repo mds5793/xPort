@@ -25,7 +25,9 @@ This README serves as a technical guideline and roadmap for the development of x
  vii.[Target Physics API](#target-physics-api)  
 viii.[Block Comment Tags](#block-comment-tags)
 
-2. [CLI Tools](#cli-tools)  
+2. [CLI Tools](#cli-tools)
+   i. [General Command Structure](#general-command-structure)
+   ii. [Command Line Options](#options)
 
 ### Target Platforms   
 ##### Note: If possible the native windowing API should be used.
