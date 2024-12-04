@@ -27,11 +27,11 @@ viii.[Block Comment Tags](#block-comment-tags)
 
 2. [CLI Tools](#cli-tools)  
    i. [General Command Structure](#general-command-structure)  
-   ii. [Command Line Options](#command-line-options)
+   ii. [Command Line Options](#command-line-options)  
 
-3. [Software Distributables & Documentation](#software-distributables-&-documentation)
-   i. [GUI Application](#gui-application)
-   ii. [Documentation](#documentation)
+3. [Software Distributables & Documentation](#software-distributables-&-documentation)  
+   i. [GUI Application](#gui-application)  
+   ii. [Documentation](#documentation)  
 
 ### Target Platforms   
 ##### Note: If possible the native windowing API should be used.
@@ -142,7 +142,7 @@ q++ -o main main.qpp lib.hqpp
 ```
 ##### Note: As shown above, the file extension for a Q++ header file is 4 letters: .hqpp  
 
-#### Command Line Options  
+### Command Line Options  
 ```
 -g = GENERATE BLOCK COMMENT TAGS
 -v = ENABLE VERBOSE MODE FOR EXCEPTIONS
