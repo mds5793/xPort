@@ -14,10 +14,10 @@
 </p>
 
 ### Target Systems (Each Target System has to be trained on an LLM):  
-Arch Linux
+Arch Linux  
 Windows  
 macOS  
-swiftOS 
+swiftOS  
 razerOS  
 CUDA  
 iOS - (Not Currently Supported)  
