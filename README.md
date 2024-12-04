@@ -50,12 +50,10 @@ Using a LLM to produce these following descriptors is recommended.
 Using a LLM to perform Unit Tests and ensuring the return results are the same as the source language or framework is also recommended.  
 
 xPort Block Comment Descriptors:  
-/*
-* @exclude - Use this before every class, struct, or function you wish to exclude from being ported via xPort if it is a Software Trade Secret.  
-* @brief - Briefly describe the functionality or purpose of your function.  
-* @param - Use this to describe all the parameters of your functions.  
-* @return - Use this to describe the expected result of your function and any values that are returned.  
-*/  
+@exclude - Use this before every class, struct, or function you wish to exclude from being ported via xPort if it is a Software Trade Secret.  
+@brief - Briefly describe the functionality or purpose of your function.  
+@param - Use this to describe all the parameters of your functions.  
+@return - Use this to describe the expected result of your function and any values that are returned.    
 
 If there is no equivalent function, struct, or class or @exclude is used then it should throw the following error:  
 Error: No equivalent struct, class, or function in target API. Please provide your own implementation.  
