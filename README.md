@@ -73,6 +73,7 @@ Example Command:
 ```xport -sys=win -lang=c|qpp -gfx=dx|v -phys=opx|npx ../[curr_dir] ../bin/```
 
 #### OPTIONS  
+```
 -sys = [TAR_SYS]  
 
 [win = WINDOWS]  
@@ -110,3 +111,4 @@ TAR_GFX = [dx][m][v]
 [opx = OPEN PHYSICS]  
 SRC_PHYSX = [npx][opx]  
 TAR_PHYSX = [npx][opx]  
+```
