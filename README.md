@@ -55,21 +55,21 @@ OpenPhysics
 In order for xPort to function properly, use the following block comment tags as necessary.  
 Using an LLM to produce the tags is recommended.  
 Using an LLM to perform unit tests and ensuring the output is identical is also recommended.  
-##### Note: xPort is able to generate the tags with the -g command line option, but it won't generate @exclude tags. You must add those manually.   
+##### Note: xPort is able to generate the tags with the -g command line option, but it won't generate @exception tags. You must add those manually.   
 ```
-@exclude - Use this tag to tell xPort to ignore the class, struct or function if it's proprietary. 
+@exception - Use this tag to tell xPort to ignore the class, struct or function if it's proprietary. 
 @brief - Briefly describe the functionality or purpose of your function.  
 @param - Use this to describe all the parameters of your functions.  
 @return - Use this to describe the expected result of your function and any values that are returned.
 ```
 
-#### If there is no equivalent class, struct or function OR the @exclude tag is used then it should throw the following error:  
+#### If there is no equivalent class, struct or function OR the @exception tag is used then it should throw the following error:  
 ```
 Error: No equivalent class, struct, or function in target API. Please provide your own implementation.
 ```
 
 #### Best Practices:  
-It would be helpful for porting purposes if using the @exclude tag to allow the LLM to offer a brief description.  
+It would be helpful for porting purposes if using the @exception tag to allow the LLM to offer a brief description.  
 Such as allowing the LLM provided in xPort to read the @brief, @param, and @return descriptors.  
 However, the LLM **<ins>_WILL NOT_</ins>** read the data or algorithms inside the class, function, or struct that is being excluded.  
 
