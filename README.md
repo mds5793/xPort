@@ -15,7 +15,7 @@ xPort is licensed under the MIT License.
 This README serves as a technical guideline and roadmap for the development of xPort.  
 
 ### Table of Contents  
-1. Software Description
+1. Software Description  
    i.[Target Platforms](#target-platforms)  
   ii.[Source Languages](#source-languages)  
  iii.[Target Languages](#target-languages)  
