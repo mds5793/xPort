@@ -105,7 +105,6 @@ This could be achieved by enabling the verbose (```-v```) command line flag in x
 However, the LLM **<ins>_WILL NOT_</ins>** read the data or algorithms inside the class, function, or struct that is being ignored.  
 
 [Back to top...](#table-of-contents)
-
 <h2 align="center">CLI Tools</h2>
 
 ### General Command Structure  
@@ -177,7 +176,6 @@ SRC_PHYSX = [npx = NVIDIA PHYSX][opx = OPEN PHYSICS]
 TAR_PHYSX = [npx = NVIDIA PHYSX][opx = OPEN PHYSICS]
 ```
 [Back to top...](#table-of-contents)
-
 <h1 align="center">Software Distributables and Documentation</h1>  
 
 #### (Please Note: Documentation and executables are not currently available. The links below simply loop back to this README...)  
