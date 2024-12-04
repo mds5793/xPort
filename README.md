@@ -40,7 +40,7 @@ C++
 Swift  
 C# - (Not Currently Supported)
 Java - (Not Currently Supported)  
-#### QOOL's (Quantum Object Oriented Languages)  
+
 Q++  
 Q# - (Not Currently Supported)  
 
