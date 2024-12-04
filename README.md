@@ -18,7 +18,7 @@ Android
 iOS  
 Playstation   
 XBOX    
-Nintendo - (Not Yet Supported)  
+Nintendo    
 
 ### Source Languages  
 C/C++  
@@ -127,7 +127,7 @@ TAR_SYS
 [win = WINDOWS]
 [mac = MACOS]
 [lin = LINUX]
-[sos = SWIFTOS]
+[sft = SWIFTOS]
 [ios = iOS]
 [apk = ANDROID]
 [psn = PLAYSTATION]
