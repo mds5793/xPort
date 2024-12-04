@@ -5,7 +5,9 @@
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/q_sharp.png?raw=true" width=400 />
 </p>
 
-## GUI Layout
+<h2 align="center">
+ GUI Layout
+</h2>
 
 <p align="center">
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/xPort-Layout.png?raw=true" width=768 />
