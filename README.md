@@ -132,10 +132,10 @@ TAR_SYS
 [nin = NINTENDO]
 [cuda=  CUDA]  
 
--lang = [IN_LANG | OUT_LANG]  
+-lang = [SRC_LANG | TAR_LANG]  
 
-IN_LANG = [c = ANSI C][cpp = C++][csh = C#][java = JAVA][swift = SWIFT]  
-OUT_LANG = [qsh = Q#][qpp = Q++][c = ANSI C][cpp = C++][csh = C#][java = JAVA][swift = SWIFT]     
+SRC_LANG = [c = ANSI C][cpp = C++][csh = C#][java = JAVA][swift = SWIFT]  
+TAR_LANG = [qsh = Q#][qpp = Q++][c = ANSI C][cpp = C++][csh = C#][java = JAVA][swift = SWIFT]     
 
 -gfx=[SRC_GFX | TAR_GFX]
 
