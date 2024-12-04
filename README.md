@@ -78,12 +78,12 @@ CLI Tools
 </h2>
 
 ### General Command Structure  
-```xport [options...][input directory][output directory]```
+```xport [options...][output_directory]```
 
 #### If no output or target directory is specified, then xPort assumes the working directory.
 
 Example Command:  
-```xport -g -sys=win -lang=c|qpp -gfx=dx|v -phys=opx|npx ../[current_directory] ../bin/```
+```xport -g -sys=win -lang=c|qpp -gfx=dx|v -phys=opx|npx bin```
 
 ##### Note: In order to see a list of the options on the command line, use the following syntax:  
 ```
