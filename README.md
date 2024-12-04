@@ -96,6 +96,7 @@ Example Command:
 
 #### OPTIONS  
 ```
+-g = Generate Block Comment Descriptors (w/o @exclude)  
 -sys = [TAR_SYS]  
 
 [win = WINDOWS]  
