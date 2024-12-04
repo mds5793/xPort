@@ -126,15 +126,7 @@ TAR_SYS
 -lang = [IN_LANG | OUT_LANG]  
 
 IN_LANG = [c = ANSI C][cpp = C++][csh = C#][java = JAVA][swift = SWIFT]  
-OUT_LANG = [qsh = Q#][qpp = Q++][c = ANSI C][cpp = C++][csh = C#][java = JAVA][swift = SWIFT]  
-
-[qsh = Q#]  
-[qpp = Q++]  
-[c = ANSI C]  
-[cpp = C++]  
-[csh = C#]  
-[java = Java]  
-[swift = Swift]   
+OUT_LANG = [qsh = Q#][qpp = Q++][c = ANSI C][cpp = C++][csh = C#][java = JAVA][swift = SWIFT]     
 
 -gfx=[SRC_GFX | TAR_GFX]
 
