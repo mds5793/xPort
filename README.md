@@ -34,7 +34,7 @@ C#
 Java    
 ##### Quantum
 Q++  
-Q# - (Not Yet Supported)
+Q#  
 
 ### Source Graphics API  
 DirectX  
