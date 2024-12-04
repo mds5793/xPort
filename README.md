@@ -56,7 +56,7 @@ Using a LLM to perform Unit Tests and ensuring the return results are the same a
 If there is no equivalent function, struct, or class or @exclude is used then it should throw the following error:  
 Error: No equivalent struct, class, or function in target API. Please provide your own implementation.  
 
-Best Practices:  
+#### Best Practices:  
 It would be helpful for the porting team if when using the @exclude tag, to allow the LLM to offer a brief description inline with @brief,   @param, and @return descriptors.  
 However, the LLM WILL not read the data, or algorithms inside the class, function, or struct that is being excluded.  
 
