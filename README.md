@@ -148,9 +148,11 @@ TAR_GFX = [dx = DIRECTX][m = METAL][v = VULKAN]
 SRC_PHYSX = [npx = NVIDIA PHYSX][opx = OPEN PHYSICS]  
 TAR_PHYSX = [npx = NVIDIA PHYSX][opx = OPEN PHYSICS]  
 ```
-<h1 align="center">Software Distributables</h1>  
+<h1 align="center">Software Distributables & Documentation</h1>  
 
 ### GUI Application
 Windows - [Download](https://github.com/mds5793/xPort-Guidelines)  
 macOS - [Download](https://github.com/mds5793/xPort-Guidelines)  
 Linux - [Download](https://github.com/mds5793/xPort-Guidelines) 
+
+[API Documentation](https://github.com/mds5793/xPort-Guidelines)
