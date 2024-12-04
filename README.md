@@ -110,7 +110,7 @@ Offered with this software is an open-source compiler for q++ available under th
 
 #### Example Q++ Compiler Syntax  
 ```
-gq++ -o main main.qpp lib.hqpp
+q++ -o main main.qpp lib.hqpp
 ```
 ##### Note: As shown above, the header file for a Q++ file is a 4-letter extension: .hqpp  
 
