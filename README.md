@@ -93,6 +93,11 @@ CLI Tools
 Example Command:  
 ```xport -g -sys=win -lang=c|qpp -gfx=dx|v -phys=opx|npx ../[curr_dir] ../bin/```
 
+##### Note: In order to see a list of the options on the command line, use the following syntax:  
+```
+xport --help
+```
+
 #### OPTIONS  
 ```
 -g = Generate Block Comment Descriptors (w/o @exclude)
