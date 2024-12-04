@@ -22,14 +22,14 @@ Nintendo - (Not Yet Supported)
 C/C++  
 Swift  
 C#  
-Java - (Not Yet Supported)  
+Java   
  
 ### Target Languages  
 ##### Classical
 C/C++  
 Swift  
 C#  
-Java - (Not Yet Supported)  
+Java    
 ##### Quantum
 Q++  
 Q# - (Not Yet Supported)
