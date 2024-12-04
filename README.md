@@ -74,7 +74,7 @@ However, the LLM WILL NOT read the data or algorithms inside the class, function
 
 <h2 align="center">
 CLI COMMANDS 
-</h2>
+</h2>  
 ```xport [options...][input directory][output directory]```
 
 #### If no output or target directory is specified, then xPort should assume the working directory.  
