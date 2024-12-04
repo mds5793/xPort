@@ -111,26 +111,12 @@ xport --version
  
 -sys = [TAR_SYS]  
 
-[win = WINDOWS]  
-[mac = MACOS]  
-[lin = LINUX]  
-[sos = SWIFTOS]
-[ios = iOS]  
-[apk = ANDROID]
-[ps = PLAYSTATION]
-[xbx = XBOX]
-[nin = NINTENDO]  
-[cuda = CUDA]  
-TAR_SYS = [win][mac][lin][sos][ios][apk][ps][xbx][nin][cuda]  
+TAR_SYS = [win = WINDOWS][mac = MACOS][lin = LINUX][sos = SWIFTOS][ios = iOS][apk = ANDROID][ps = PLAYSTATION][xbx = XBOX][nin = NINTENDO][cuda=  CUDA]  
 
 -lang = [IN_LANG | OUT_LANG]  
 
-[c = ANSI C]  
-[cpp = C++]  
-[csh = C#]  
-[java = Java]  
-[swift = Swift]  
-IN_LANG = [c][cpp][csh][java][swift]  
+IN_LANG = [c = ANSI C][cpp = C++][csh = C#][java = JAVA][swift = SWIFT]  
+OUT_LANG = [qsh = Q#][qpp = Q++][c = ANSI C][cpp = C++][csh = C#][java = JAVA][swift = SWIFT]  
 
 [qsh = Q#]  
 [qpp = Q++]  
@@ -138,21 +124,15 @@ IN_LANG = [c][cpp][csh][java][swift]
 [cpp = C++]  
 [csh = C#]  
 [java = Java]  
-[swift = Swift]  
-OUT_LANG = [qsh][qpp][c][cpp][csh][java][swift]  
+[swift = Swift]   
 
 -gfx=[SRC_GFX | TAR_GFX]
 
-[dx = DIRECTX]  
-[m = METAL]  
-[v = VULKAN]  
-SRC_GFX = [dx][m][v]  
-TAR_GFX = [dx][m][v]
+SRC_GFX = [dx = DIRECTX][m = METAL][v = VULKAN]  
+TAR_GFX = [dx = DIRECTX][m = METAL][v = VULKAN]  
 
 -phys=[SRC_PHYSX | TAR_PHYSX]
-
-[npx = NVIDIA PHYSX]  
-[opx = OPEN PHYSICS]  
-SRC_PHYSX = [npx][opx]  
-TAR_PHYSX = [npx][opx]  
+  
+SRC_PHYSX = [npx = NVIDIA PHYSX][opx = OPEN PHYSICS]  
+TAR_PHYSX = [npx = NVIDIA PHYSX][opx = OPEN PHYSICS]  
 ```
