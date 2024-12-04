@@ -13,7 +13,7 @@
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/xPort-Layout.png?raw=true" width=768 />
 </p>
 
-### Target Systems (Each Target System has to be trained on an LLM):      
+### Target Systems      
 Windows  
 macOS  
 Linux  
