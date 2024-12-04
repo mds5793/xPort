@@ -189,4 +189,4 @@ Linux - [Download](#software-description)
 [API Documentation](#software-description)  
 [Q++ Compiler Source Code & Documentation](#software-description)  
 
-[Back to top...](#software-description)
+[Back to top...](#table-of-contents)
