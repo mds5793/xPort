@@ -36,7 +36,7 @@ This README serves as a technical guide and roadmap for the development of xPort
 
 ### Supported Architectures  
 ##### Classical  
-CUDA  
+cuda  
 x86/x86_64  
 amd64  
 arm64  
