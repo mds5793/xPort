@@ -36,12 +36,13 @@ viii.[Target Physics API](#target-physics-api)
 
 ### Supported Architectures  
 ##### Classical  
-CUDA  
-x86/x86_64  
-amd64  
-arm64  
+CUDA  (NVIDIA Corporation)  
+x86/x86_64  (Intel Corporation)  
+amd64  (AMD Inc.)  
+arm64  (ARM Ltd.)  
 ##### Quantum  
-lgk64  
+lgk64  (Logick Computers Ltd.)  
+gma (Gate Model Architecture)  
 
 ### Target Platforms   
 ##### Note: If possible the native windowing API should be used.
@@ -162,6 +163,7 @@ TAR_ARCH
 [amd = AMD64]
 [arm = ARM64]
 [lgk = LOGICK64]
+[gma = GATE MODEL]
  
 -sys = [TAR_SYS]  
 
