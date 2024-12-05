@@ -219,3 +219,10 @@ Linux - [Download](#software-description)
  <p align="center"><a href="LICENSE">Legal Terms</a> | <a href="#software-description">Contact</a> | <a href="#software-description">Website</a></p>
 </p>  
 
+<p align="center">
+ <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/facebook.png?raw=true" width=64 />
+ <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/instagram.png?raw=true" width=64 />
+ <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/linkedin.svg?raw=true" width=64 />
+ <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/x.png.png?raw=true" width=64 />
+ <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/youtube.png?raw=true" width=64 />
+</p>
