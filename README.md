@@ -159,6 +159,7 @@ q++ -o main main.qpp lib.hqpp
 -arch = [TAR_ARCH]
 
 TAR_ARCH
+[cuda = CUDA] 
 [x86 = INTEL]
 [amd = AMD64]
 [arm = ARM64]
@@ -176,8 +177,7 @@ TAR_SYS
 [apk = ANDROID]
 [psn = PLAYSTATION]
 [xbx = XBOX]
-[nin = NINTENDO]
-[cuda=  CUDA]  
+[nin = NINTENDO] 
 
 -lang = [SRC_LANG | TAR_LANG]  
 
