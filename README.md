@@ -192,5 +192,5 @@ Linux - [Download](#software-description)
 
 <p align="center">
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/swift_tm.png?raw=true" width=400 />
- <p>xPort is a trademark of Swift Enterprises LLC - Use with permission.</p>
+ <p align="center">xPort is a trademark of Swift Enterprises LLC - Use with permission.</p>
 </p>
