@@ -16,20 +16,21 @@ This README serves as a technical guide and roadmap for the development of xPort
 
 ### Table of Contents  
 1. [Software Description](#software-description)  
-   i.[Target Platforms](#target-platforms)  
-  ii.[Source Languages](#source-languages)  
- iii.[Target Languages](#target-languages)  
-  iv.[Source Graphics API](#source-graphics-api)  
-   v.[Target Graphics API](#target-graphics-api)  
-  vi.[Source Physics API](#source-physics-api)  
- vii.[Target Physics API](#target-physics-api)  
-viii.[Block Comment Tags](#block-comment-tags)
+   i.[Supported Architectures](#supported-architectures)  
+  ii.[Target Platforms](#target-platforms)  
+ iii.[Source Languages](#source-languages)  
+  iv.[Target Languages](#target-languages)  
+   v.[Source Graphics API](#source-graphics-api)  
+  vi.[Target Graphics API](#target-graphics-api)  
+ vii.[Source Physics API](#source-physics-api)  
+viii.[Target Physics API](#target-physics-api)  
+  ix.[Block Comment Tags](#block-comment-tags)
 
-2. [CLI Tools](#cli-tools)  
+3. [CLI Tools](#cli-tools)  
    i. [General Command Structure](#general-command-structure)  
    ii. [Command Line Options](#command-line-options)  
 
-3. [Software Distributables & Documentation](#software-distributables-and-documentation)  
+4. [Software Distributables & Documentation](#software-distributables-and-documentation)  
    i. [GUI Application](#gui-application)  
    ii. [Documentation](#documentation)
 
@@ -121,7 +122,7 @@ However, the LLM **<ins>_WILL NOT_</ins>** read the data or algorithms inside th
 #### If no output directory is specified, then xPort assumes the working directory.
 
 Example Command:  
-```xport -g -sys=win -lang=c|qpp -gfx=dx|v -phys=opx|npx /bin```  
+```xport -g -arch=arm -sys=win -lang=c|qpp -gfx=dx|v -phys=opx|npx /bin```  
 
 #### If desired you can run xPort for the sole purpose of generating tags in your code as follows:  
 ```xport -g /bin```  
@@ -153,6 +154,14 @@ q++ -o main main.qpp lib.hqpp
 ```
 -g = GENERATE BLOCK COMMENT TAGS
 -v = ENABLE VERBOSE OUTPUT FOR EXCEPTIONS
+
+-arch = [TAR_ARCH]
+
+TAR_ARCH
+[x86 = INTEL]
+[amd = AMD64]
+[arm = ARM64]
+[lgk = LOGICK64]
  
 -sys = [TAR_SYS]  
 
