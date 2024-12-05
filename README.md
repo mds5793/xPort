@@ -193,6 +193,6 @@ Linux - [Download](#software-description)
 <p align="center">
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/swift_tm.png?raw=true" width=400 />
  <h5 align="center">xPort&trade; and the Swift&trade; Signature and Bird Logo are trademarks of Swift Enterprises LLC. Use with permission.</h5>
- <p align="center"><a href="LICENSE">Legal Terms</a></p>
+ <p align="center"><a href="LICENSE">Legal Terms</a> | <a href="#software-description">EULA</a></p>
 </p>  
 
