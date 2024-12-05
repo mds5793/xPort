@@ -34,10 +34,12 @@ viii.[Block Comment Tags](#block-comment-tags)
    ii. [Documentation](#documentation)
 
 ### Supported Architectures  
-Intel x86/x86_64  
-AMD amd64  
-ARM Limited arm64  
-Logick Computers lgk64  
+##### Classical  
+x86/x86_64  
+amd64  
+arm64  
+##### Quantum  
+lgk64  
 
 ### Target Platforms   
 ##### Note: If possible the native windowing API should be used.
@@ -199,7 +201,8 @@ Linux - [Download](#software-description)
 
 <p align="center">
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/swift_tm.png?raw=true" width=400 />
- <h5 align="center">xPort&trade; and the Swift&trade; Signature and Bird Logo are trademarks of Swift Enterprises LLC. Use with permission.</h5>
+ <h5 align="center">xPort&trade; and the Swift&trade; Signature and Bird Logo are trademarks of Swift Enterprises LLC. Use with permission.<br>
+ lgk64&trade; is a trademark of Logick Computers Ltd. a subsidiary of Swift Enterprises LLC.</h5>
  <h5 align="center">The Q++ Logo is licensed under the CC0 (Creative Commons Zero) License. Attribution is not required.</h5>
  <p align="center"><a href="LICENSE">Legal Terms</a> | <a href="#software-description">EULA</a></p>
 </p>  
