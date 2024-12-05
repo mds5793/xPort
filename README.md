@@ -1,4 +1,4 @@
-<h1 align="center">xPort&trade; - AI Powered Software Porting <br> Technical Guide </h1>
+<h1 align="center">xPort&trade; - AI Powered Porting Software <br> Technical Guide </h1>
 
 <p align="center">
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/cpp_to_qpp.png?raw=true" width=400 />
