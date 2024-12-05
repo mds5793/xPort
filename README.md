@@ -1,4 +1,4 @@
-<h1 align="center">xPort - AI Powered Software Porting <br> Technical Guide </h1>
+<h1 align="center">xPort&trade; - AI Powered Software Porting <br> Technical Guide </h1>
 
 <p align="center">
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/cpp_to_qpp.png?raw=true" width=400 />
@@ -192,5 +192,5 @@ Linux - [Download](#software-description)
 
 <p align="center">
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/swift_tm.png?raw=true" width=400 />
- <p align="center">xPort is a trademark of Swift Enterprises LLC - Use with permission.</p>
+ <h5 align="center">xPort&trade; is a Trademark of Swift Enterprises LLC. Use with permission.</h5>
 </p>
