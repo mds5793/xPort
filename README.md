@@ -36,6 +36,7 @@ viii.[Target Physics API](#target-physics-api)
 
 ### Supported Architectures  
 ##### Classical  
+CUDA  
 x86/x86_64  
 amd64  
 arm64  
@@ -48,7 +49,6 @@ Windows
 macOS  
 Linux  
 swiftOS  
-CUDA  
 Android  
 iOS  
 Playstation   
