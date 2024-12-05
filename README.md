@@ -8,8 +8,9 @@
 
 ### Purpose & Mission Statement  
 1. xPort is a platform agnostic AI enhanced porting toolkit developed to ease the burden and cost of porting software to other platforms.  
-2. xPort was originally intended to give indie game studios an easy avenue for porting their projects to different platforms.  
-3. xPort is licensed under the MIT License. See [LICENSE](LICENSE) for details...  
+2. xPort was originally intended to give indie game studios an easy avenue for porting their projects to different platforms.
+3. Software ported using xPort is intended to run natively on the target platform. No need for a wrapper or compatibility layer.
+4. xPort is licensed under the MIT License. See [LICENSE](LICENSE) for details...  
 
 This README serves as a technical guide and roadmap for the development of xPort.  
 
