@@ -211,7 +211,11 @@ Linux - [Download](#software-description)
 [Back to top...](#table-of-contents)  
 
 <p align="center">
-  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/swift_tm.png?raw=true" width=400 />
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/swift_signature-registered_light.png?raw=true">
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/swift_signature-registered_dark.png?raw=true">
+   <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/swift_signature-registered_dark.png?raw=true" width="512"/>
+  </picture>
   <h5 align="center">xPort&trade; and the Swift&trade; Signature and Bird Logo are trademarks of Swift Enterprises LLC. Use with permission.<br>
   lgk64&trade; is a trademark of Logick Computers Ltd. a subsidiary of Swift Enterprises LLC.<br>
   The Q++ Logo is licensed under the CC0 (Creative Commons Zero) License. Attribution is not required.</h5>  
