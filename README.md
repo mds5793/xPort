@@ -216,6 +216,6 @@ Linux - [Download](#software-description)
  lgk64&trade; is a trademark of Logick Computers Ltd. a subsidiary of Swift Enterprises LLC.<br>
  The Q++ Logo is licensed under the CC0 (Creative Commons Zero) License. Attribution is not required.</h5>  
  <h5 align="center">For a list of all our trademarks and licenses please click <a href="img/TRADEMARKS.md">here</a>.</h5>
- <p align="center"><a href="LICENSE">Legal Terms</a> | <a href="#software-description">Contact</a></p>
+ <p align="center"><a href="LICENSE">Legal Terms</a> | <a href="#software-description">Contact</a> | <a href="#software-description">Website</a></p>
 </p>  
 
