@@ -143,7 +143,7 @@ q++ -o main main.qpp lib.hqpp
 ### Command Line Options  
 ```
 -g = GENERATE BLOCK COMMENT TAGS
--v = ENABLE VERBOSE MODE FOR EXCEPTIONS
+-v = ENABLE VERBOSE OUTPUT FOR EXCEPTIONS
  
 -sys = [TAR_SYS]  
 
