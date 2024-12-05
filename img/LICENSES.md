@@ -1,7 +1,6 @@
 <h1 align="center">Trademark Licenses</h1>  
 <p align="center">
   <img src="q_pp.png?raw=true" width=128 />
-  <img src="q_sharp.png?raw=true" width=128 />
 </p>
 <p align="center">The Q++ & Q# Logos are Licensed under the CC0 (Creative Commons Zero) license. No Attribution is required.</p>
 
