@@ -16,23 +16,23 @@ This README serves as a technical guide and roadmap for the development of xPort
 
 ### Table of Contents  
 1. [Software Description](#software-description)  
-   i.[Supported Architectures](#supported-architectures)  
-  ii.[Target Platforms](#target-platforms)  
- iii.[Source Languages](#source-languages)  
-  iv.[Target Languages](#target-languages)  
-   v.[Source Graphics API](#source-graphics-api)  
-  vi.[Target Graphics API](#target-graphics-api)  
- vii.[Source Physics API](#source-physics-api)  
-viii.[Target Physics API](#target-physics-api)  
-  ix.[Block Comment Tags](#block-comment-tags)
+   a. [Supported Architectures](#supported-architectures)  
+   b. [Target Platforms](#target-platforms)  
+   c. [Source Languages](#source-languages)  
+   d. [Target Languages](#target-languages)  
+   e. [Source Graphics API](#source-graphics-api)  
+   f. [Target Graphics API](#target-graphics-api)  
+   g. [Source Physics API](#source-physics-api)  
+   h. [Target Physics API](#target-physics-api)  
+   i. [Block Comment Tags](#block-comment-tags)
 
 3. [CLI Tools](#cli-tools)  
-   i. [General Command Structure](#general-command-structure)  
-   ii. [Command Line Options](#command-line-options)  
+   a. [General Command Structure](#general-command-structure)  
+   b. [Command Line Options](#command-line-options)  
 
 4. [Software Distributables & Documentation](#software-distributables-and-documentation)  
-   i. [GUI Application](#gui-application)  
-   ii. [Documentation](#documentation)
+   a. [GUI Application](#gui-application)  
+   b. [Documentation](#documentation)
 
 ### Supported Architectures  
 ##### Classical  
@@ -82,7 +82,7 @@ DirectX
 Metal  
 Vulkan  
 
-### Source Physics API   
+### Source Physics API  
 NVIDIA PhysX  
 OpenPhysics  
 
