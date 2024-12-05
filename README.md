@@ -31,7 +31,13 @@ viii.[Block Comment Tags](#block-comment-tags)
 
 3. [Software Distributables & Documentation](#software-distributables-and-documentation)  
    i. [GUI Application](#gui-application)  
-   ii. [Documentation](#documentation)  
+   ii. [Documentation](#documentation)
+
+### Supported Architectures  
+Intel x86/x86_64  
+AMD amd64  
+ARM Limited arm64  
+Logick Computers lgk64  
 
 ### Target Platforms   
 ##### Note: If possible the native windowing API should be used.
