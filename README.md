@@ -36,8 +36,8 @@ viii.[Block Comment Tags](#block-comment-tags)
 ##### Note: If possible the native windowing API should be used.
 Windows  
 macOS  
-Linux - (incl. steamOS)  
-swiftOS - (incl. razerOS)  
+Linux  
+swiftOS  
 CUDA  
 Android  
 iOS  
