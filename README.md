@@ -1,4 +1,4 @@
-<h1 align="center">xPort - AI Enhanced Porting Software - Technical Guidelines</h1>
+<h1 align="center">xPort - AI Porting Software - Technical Guidelines</h1>
 
 <p align="center">
  <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/q_pp.png?raw=true" width=400 />
