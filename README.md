@@ -1,8 +1,7 @@
 <h1 align="center">xPort - AI Powered Software Porting <br> Technical Guide </h1>
 
 <p align="center">
- <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/q_pp.png?raw=true" width=400 />
- <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/q_sharp.png?raw=true" width=400 />
+ <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/cpp_to_qpp.png?raw=true" width=400 />
 </p>
 
 <h1 align="center">Software Description</h1>
