@@ -11,7 +11,7 @@
 2. xPort was originally intended to give indie game studios an easy avenue for porting their projects to different platforms.  
 3. xPort is licensed under the MIT License. See [LICENSE](LICENSE) for details...  
 
-This README serves as a technical guideline and roadmap for the development of xPort.  
+This README serves as a technical guide and roadmap for the development of xPort.  
 
 ### Table of Contents  
 1. [Software Description](#software-description)  
