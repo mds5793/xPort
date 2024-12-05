@@ -1,7 +1,7 @@
 <h1 align="center">xPort&trade; - AI Powered Porting Software <br> Technical Guide </h1>
 
 <p align="center">
- <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/cpp_to_qpp.png?raw=true" width=400 />
+ <img src="https://github.com/mds5793/xPort/blob/main/img/cpp_to_qpp.png?raw=true" width=400 />
 </p>
 
 <h1 align="center">Software Description</h1>
@@ -212,9 +212,9 @@ Linux - [Download](#software-description)
 
 <p align="center">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/swift_signature-registered_light.png?raw=true">
-   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/swift_signature-registered_dark.png?raw=true">
-   <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/swift_signature-registered_dark.png?raw=true" width="512"/>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mds5793/xPort/blob/main/img/swift_signature-registered_light.png?raw=true">
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mds5793/xPort/blob/main/img/swift_signature-registered_dark.png?raw=true">
+   <img src="https://github.com/mds5793/xPort/blob/main/img/swift_signature-registered_dark.png?raw=true" width="512"/>
   </picture>
   <h5 align="center">xPort&trade; and the Swift&trade; Signature and Bird Logo are trademarks of Swift Enterprises LLC. Use with permission.<br>
   lgk64&trade; is a trademark of Logick Computers Ltd. a subsidiary of Swift Enterprises LLC.<br>
@@ -226,41 +226,41 @@ Linux - [Download](#software-description)
  <p align="center">
   <a href="#software-description">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/facebook_light.png?raw=true">
-   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/facebook.png?raw=true">
-   <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/facebook.png?raw=true" width=32 />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mds5793/xPort/blob/main/img/facebook_light.png?raw=true">
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mds5793/xPort/blob/main/img/facebook.png?raw=true">
+   <img src="https://github.com/mds5793/xPort/blob/main/img/facebook.png?raw=true" width=32 />
   </picture>
   </a>
   
  <a href="#software-description">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/instagram_light.png?raw=true">
-   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/instagram.png?raw=true">
-   <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/instagram.png?raw=true" width=32 />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mds5793/xPort/blob/main/img/instagram_light.png?raw=true">
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mds5793/xPort/blob/main/img/instagram.png?raw=true">
+   <img src="https://github.com/mds5793/xPort/blob/main/img/instagram.png?raw=true" width=32 />
   </picture>
  </a>
  
  <a href="#software-description">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/linkedin_light.png?raw=true">
-   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/linkedin.png?raw=true">
-   <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/linkedin.png?raw=true" width=32 />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mds5793/xPort/blob/main/img/linkedin_light.png?raw=true">
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mds5793/xPort/blob/main/img/linkedin.png?raw=true">
+   <img src="https://github.com/mds5793/xPort/blob/main/img/linkedin.png?raw=true" width=32 />
   </picture>
  </a>
  
  <a href="#software-description">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/x_light.png?raw=true">
-   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/x.png?raw=true">
-   <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/x.png?raw=true" width=32 />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mds5793/xPort/blob/main/img/x_light.png?raw=true">
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mds5793/xPort/blob/main/img/x.png?raw=true">
+   <img src="https://github.com/mds5793/xPort/blob/main/img/x.png?raw=true" width=32 />
   </picture>
  </a>
   
  <a href="#software-description">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/youtube_light.png?raw=true">
-   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/youtube.png?raw=true">
-   <img src="https://github.com/mds5793/xPort-Software-Exporting-Guidelines/blob/main/img/youtube.png?raw=true" width=32 />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mds5793/xPort/blob/main/img/youtube_light.png?raw=true">
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mds5793/xPort/blob/main/img/youtube.png?raw=true">
+   <img src="https://github.com/mds5793/xPort/blob/main/img/youtube.png?raw=true" width=32 />
   </picture>
  </a>
 </p>
