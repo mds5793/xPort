@@ -36,13 +36,13 @@ This README serves as a technical guide and roadmap for the development of xPort
 
 ### Supported Architectures  
 ##### Classical  
-CUDA  (NVIDIA Corporation)  
-x86/x86_64  (Intel Corporation)  
-amd64  (AMD Inc.)  
-arm64  (ARM Ltd.)  
+CUDA  
+x86/x86_64  
+amd64  
+arm64  
 ##### Quantum  
-lgk64  (Logick Computers Ltd.)  
-gma (Gate Model Architecture)  
+lgk64  
+gma  
 
 ### Target Platforms   
 ##### Note: If possible the native windowing API should be used.
