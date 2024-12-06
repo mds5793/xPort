@@ -32,7 +32,8 @@ This README serves as a technical guide and roadmap for the development of xPort
 
 4. [Software Distributables & Documentation](#software-distributables-and-documentation)  
    a. [GUI Application](#gui-application)  
-   b. [Documentation](#documentation)
+   b. [Documentation](#documentation)  
+   c. [Glossary](#glossary)  
 
 ### Supported Architectures  
 ##### Classical  
@@ -42,7 +43,6 @@ amd64
 arm64  
 ##### Quantum  
 lgk64  
-gma  
 
 ### Target Platforms   
 ##### Note: If possible the native windowing API should be used.
@@ -208,6 +208,15 @@ Linux - [Download](#software-description)
 [API Documentation](#software-description)  
 [Open Physics Source Code & Documentation](#software-description)  
 [Q++ Compiler Source Code & Documentation](#software-description)  
+
+### Glossary  
+API - [Application Programming Interface](https://en.wikipedia.org/wiki/API)  
+GUI - [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface)  
+CLI - [Command Line Interface](https://en.wikipedia.org/wiki/Command-line_interface)  
+AI - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)  
+LLM - [Large Language Model](https://en.wikipedia.org/wiki/Large_language_model)  
+GPU - [Graphics Processing Unit](https://en.wikipedia.org/wiki/Graphics_processing_unit)  
+CUDA - [Compute Unified Device Architecture](https://en.wikipedia.org/wiki/CUDA)  
 
 [Back to top...](#table-of-contents)  
 
