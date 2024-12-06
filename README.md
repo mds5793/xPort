@@ -156,7 +156,7 @@ q++ -o main main.qpp lib.hqpp
 -g = GENERATE BLOCK COMMENT TAGS
 -v = ENABLE VERBOSE OUTPUT FOR EXCEPTIONS
 
--arch = [TAR_ARCH]
+-arch=[TAR_ARCH]
 
 TAR_ARCH
 [cuda = CUDA] 
@@ -166,7 +166,7 @@ TAR_ARCH
 [lgk = LOGICK64]
 [gma = GATE MODEL]
  
--sys = [TAR_SYS]  
+-sys=[TAR_SYS]  
 
 TAR_SYS
 [win = WINDOWS]
@@ -179,7 +179,7 @@ TAR_SYS
 [xbx = XBOX]
 [nin = NINTENDO] 
 
--lang = [SRC_LANG | TAR_LANG]  
+-lang=[SRC_LANG | TAR_LANG]  
 
 SRC_LANG = [c = ANSI C][cpp = C++][csh = C#][java = JAVA][swift = SWIFT]  
 TAR_LANG = [qsh = Q#][qpp = Q++][c = ANSI C][cpp = C++][csh = C#][java = JAVA][swift = SWIFT]     
