@@ -105,7 +105,7 @@ Using an LLM to perform unit tests and ensuring the output is identical is also 
 
 #### If there is no equivalent class, struct or function <ins>***_OR_***</ins> the _```@skip```_ tag is used then it should throw the following exception:  
 ```
-Exception: No equivalent class, struct or function named @name in target API. Please provide an implementation.
+Exception: No equivalent class, struct or function named @name in target API. Please provide a custom implementation.
 ```
 
 #### Best Practices:  
