@@ -54,7 +54,8 @@ Android
 iOS  
 Playstation   
 XBOX    
-Nintendo    
+Nintendo  
+WebGL
 
 ### Source Languages  
 C/C++  
