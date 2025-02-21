@@ -42,7 +42,7 @@ x86/x86_64
 amd64  
 arm64  
 ##### Quantum  
-lgk64  
+qrm64  - (Quantum RISC Machine)
 
 ### Target Platforms   
 ##### Note: If possible the native windowing API should be used.
@@ -164,7 +164,7 @@ TAR_ARCH
 [x86 = INTEL]
 [amd = AMD64]
 [arm = ARM64]
-[lgk = LOGICK64]
+[qrm = QRM64]
 [gma = GATE MODEL]
  
 -sys=[TAR_SYS]  
