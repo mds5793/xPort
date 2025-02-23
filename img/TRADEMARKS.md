@@ -14,6 +14,6 @@
 </p>
 
 <p align="center">xPort&trade; is a trademark of Swift Enterprises LLC. All Rights Reserved. Use with permission.<br>
-lgk64&trade; is a trademark of Logick Computers Ltd. a subsidiary of Swift Enterprises LLC.<br>
+qrm64&trade; is a trademark of Swift Computing Corporation a subsidiary of Swift Enterprises LLC.<br>
 The Swift&trade; Signature and Bird Logo are trademarks of Swift Enterprises LLC. All Rights Reserved. Use with permission.
 </p>
