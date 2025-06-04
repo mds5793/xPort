@@ -163,8 +163,7 @@ TAR_ARCH
 [x86 = INTEL]
 [amd = AMD64]
 [arm = ARM64]
-[qrm = QRM64]
-[gma = GATE MODEL]
+[qrm = QRM64]  
  
 -sys=[TAR_SYS]  
 
