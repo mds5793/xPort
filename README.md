@@ -69,7 +69,7 @@ Swift
 C#  
 Java    
 ##### Quantum
-Q++  
+$C^2$  
 Q#  
 
 ### Source Graphics API  
@@ -123,7 +123,7 @@ However, the LLM **<ins>_WILL NOT_</ins>** read the data or algorithms inside th
 #### If no output directory is specified, then xPort assumes the working directory.
 
 Example Command:  
-```xport -g -arch=arm -sys=win -lang=c|qpp -gfx=dx|v -phys=opx|npx /bin```  
+```xport -g -arch=arm -sys=win -lang=c|csq -gfx=dx|v -phys=opx|npx /bin```  
 
 #### If desired you can run xPort for the sole purpose of generating tags in your code as follows:  
 ```xport -g /bin```  
@@ -142,14 +142,14 @@ xport --version
 
 ##### Note: xPort <ins>**_WILL NOT_**</ins> compile your code, you must do that yourself with the appropriate compiler.  
 
-#### Q++ Compiler  
-Bundled with this software package is an open-source compiler for q++ available under the MIT License.  
+#### $C^2$ Compiler  
+Bundled with this software package is an open-source compiler for $C^2$ available under the MIT License.  
 
-#### Example Q++ Compiler Syntax  
+#### Example $C^2$ Compiler Syntax  
 ```
-q++ -o main main.qpp lib.hqpp
+csq -o main main.csq lib.hsq
 ```
-##### Note: As shown above, the file extension for a Q++ header file is 4 letters: .hqpp  
+##### Note: As shown above, the file extension for a $C^2$ header file is: .hsq 
 
 ### Command Line Options  
 ```
@@ -182,7 +182,7 @@ TAR_SYS
 -lang=[SRC_LANG | TAR_LANG]  
 
 SRC_LANG = [c = ANSI C][cpp = C++][csh = C#][java = JAVA][swift = SWIFT]  
-TAR_LANG = [qsh = Q#][qpp = Q++][c = ANSI C][cpp = C++][csh = C#][java = JAVA][swift = SWIFT]     
+TAR_LANG = [qsh = Q#][csq = c-squared][c = ANSI C][cpp = C++][csh = C#][java = JAVA][swift = SWIFT]     
 
 -gfx=[SRC_GFX | TAR_GFX]
 
@@ -207,7 +207,7 @@ Linux - [Download](#software-description)
 ### Documentation
 [API Documentation](#software-description)  
 [Open Physics Source Code & Documentation](#software-description)  
-[Q++ Compiler Source Code & Documentation](#software-description)  
+[C-squared Compiler Source Code & Documentation](#software-description)  
 
 ### Glossary  
 API - [Application Programming Interface](https://en.wikipedia.org/wiki/API)  
