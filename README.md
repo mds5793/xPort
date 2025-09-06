@@ -228,7 +228,7 @@ CUDA - [Compute Unified Device Architecture](https://en.wikipedia.org/wiki/CUDA)
   </picture>
   <h5 align="center">xPort&trade; and the Swift&trade; Signature and Bird Logo are trademarks of Swift Enterprises LLC. Use with permission.<br>
   qrm64&trade; is a trademark of Swift Computing Corporation a subsidiary of Swift Enterprises LLC.<br>
-  The Q++ Logo is licensed under the CC0 (Creative Commons Zero) License. Attribution is not required.</h5>  
+  The $C^2$ Logo is licensed under the CC0 (Creative Commons Zero) License. Attribution is not required.</h5>  
   <h5 align="center">For a list of all our trademarks and licenses please click <a href="img/TRADEMARKS.md">here</a>.</h5>
   <p align="center"><a href="LICENSE">Legal Terms</a> | <a href="#software-description">Contact</a> | <a href="#software-description">Website</a></p>
  </p>  
